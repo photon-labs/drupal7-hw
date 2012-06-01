@@ -5,6 +5,13 @@
     <artifactId>PHR_drupal7-hw</artifactId>
     <name>PHR_drupal7-hw</name>
     <version>1.0.0</version>
+    
+     <scm>
+        <connection>scm:git:git@github.com:phresco/drupal7-hw.git</connection>
+        <developerConnection>scm:git:git@github.com:phresco/drupal7-hw.git</developerConnection>
+        <url>https://github.com/phresco/drupal7-hw</url>
+    </scm>
+    
     <build>
         <sourceDirectory>source</sourceDirectory>
         <plugins>
